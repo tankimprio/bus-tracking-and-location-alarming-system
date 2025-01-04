@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "338068645226",
+    "firebase_url": "https://trippo-5c895-default-rtdb.firebaseio.com",
+    "project_id": "trippo-5c895",
+    "storage_bucket": "trippo-5c895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338068645226:android:169a5dd76de854ad997113",
+        "android_client_info": {
+          "package_name": "com.egoncastle.drivers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSxvosBuCn-VW1dyK_Ze2L1FfHGs4MshA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338068645226:android:cca2e8f622808d9a997113",
+        "android_client_info": {
+          "package_name": "com.egoncastle.users"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSxvosBuCn-VW1dyK_Ze2L1FfHGs4MshA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
